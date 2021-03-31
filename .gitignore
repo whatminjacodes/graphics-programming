@@ -10,6 +10,15 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# lino-campfire
+lino-campfire/[Ll]ibrary/
+lino-campfire/[Tt]emp/
+lino-campfire/[Oo]bj/
+lino-campfire/[Bb]uild/
+lino-campfire/[Bb]uilds/
+lino-campfire/[Ll]ogs/
+lino-campfire/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
